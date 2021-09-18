@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.counter{
+  background-color: orangered;
+  border: 3px solid black;
+  margin: 20px;
+  color: white;
+  border-radius: 30px;
+  padding: 20px;
+}
